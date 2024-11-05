@@ -15,5 +15,6 @@ Clique na imagem abaixo para acessar o dashboard interativo completo no Power BI
 [![Visualizar Dashboard](screenshot.png)](https://app.powerbi.com/view?r=eyJrIjoiNjE4Yzk2YjEtNzM5Zi00NTQxLTg5M2YtNTM4ODI3YzBlZTBiIiwidCI6IjJiNDllYTM0LTEzOGItNGY0Mi05ODA0LTlmODhhMDgwODkwNyJ9)
 
 ## Tecnologias Utilizadas
-- **Power BI**: Ferramenta de Business Intelligence para criação do dashboard.
 - **SQL**: Utilizado para manipulação e limpeza dos dados antes de importá-los para o Power BI.
+- **Power BI**: Ferramenta de Business Intelligence para criação do dashboard.
+- **DAX**: Linguagem utilizada para criação de medidas e cálculos personalizados no Power BI.
